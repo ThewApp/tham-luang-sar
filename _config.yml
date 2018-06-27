@@ -5,4 +5,5 @@ github:
   is_project_page: false
 google_analytics: UA-121443271-2
 collections:
-  - faq
+  faq:
+    output: true
