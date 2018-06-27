@@ -14,6 +14,11 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: [faq, fakes]
+      type: faq
+    values:
+      layout: category
+  - scope:
+      path: ""
+      type: fakes
     values:
       layout: category
