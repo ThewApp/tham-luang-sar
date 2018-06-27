@@ -1,5 +1,5 @@
 ---
-permalink: /fake/index.html
+permalink: /fakes/index.html
 ---
 
 # Fake News
