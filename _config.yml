@@ -6,4 +6,5 @@ github:
 google_analytics: UA-121443271-2
 collections:
   faq:
-    output: true
+    default:
+      layout: default
