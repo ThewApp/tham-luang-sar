@@ -7,6 +7,7 @@ google_analytics: UA-121443271-2
 collections:
   faq:
     output: true
+    permalink: pretty
 defaults:
   - scope:
       path: ""
