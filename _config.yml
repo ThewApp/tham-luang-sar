@@ -8,9 +8,12 @@ collections:
   faq:
     output: true
     permalink: /:collection/:path/
+  fakes:
+    output: true
+    permalink: /:collection/:path/
 defaults:
   - scope:
       path: ""
-      type: faq
+      type: [faq, fakes]
     values:
-      layout: faq
+      layout: category
