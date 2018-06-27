@@ -11,6 +11,6 @@ collections:
 default:
   - scope:
       path: ""
-      type: faq
+      type: "faq"
     values:
-      layout: default
+      layout: "default"
