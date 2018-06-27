@@ -5,11 +5,10 @@ github:
   is_project_page: false
 google_analytics: UA-121443271-2
 collections:
-  faq:
-    output: true
+  - faq
 default:
   - scope:
-      path: ""
-      type: "faq"
+      path: 
+      type: faq
     values:
-      layout: "default"
+      layout: default
