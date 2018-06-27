@@ -1,4 +1,5 @@
 ---
+permalink: /faq/index.html
 ---
 
 # FAQ
