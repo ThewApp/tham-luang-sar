@@ -4,3 +4,5 @@ description: รวบรวมข้อมูลข่าวสาร จาก
 github:
   is_project_page: false
 google_analytics: UA-121443271-2
+collections:
+  - faq
