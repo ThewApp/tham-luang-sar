@@ -5,7 +5,11 @@ github:
   is_project_page: false
 google_analytics: UA-121443271-2
 collections:
-  faq:
-    default:
-      values:
-        layout: default
+  - faq
+default:
+  -
+    scopes:
+      path: 
+      type: faq
+    values:
+      layout: default
