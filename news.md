@@ -10,6 +10,6 @@ permalink: /news/index.html
 * [โพสในเพจ MThai](https://www.facebook.com/mthaidotcom/photos/a.268427430675.178904.18079440675/10156776372495676/?type=3&theater) อัพเดทเรียลไทม์
 * [เพจ สถานีตำรวจภูธร แม่สาย](https://www.facebook.com/สถานีตำรวจภูธร-แม่สาย-183415315340280/)
 
-*ขอบคุณข้อมูลจาก[คุณ Spamalot](https://pantip.com/topic/37803852/comment2541) สมาชิก Pantip.com*
+*ขอบคุณข้อมูลจาก[คุณ Spamalot](https://pantip.com/topic/37803852/comment2170) สมาชิก Pantip.com*
 
 [<< Back to homepage]({{ site.baseurl }})
