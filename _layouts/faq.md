@@ -4,4 +4,4 @@ layout: default
 
 {{content}}
 
-## [Back]({{ site.baseurl }}{{ /faq/ }})
+{{ ## [Back]({{ site.baseurl }}{{ /faq/ }}) | markdownify }}
