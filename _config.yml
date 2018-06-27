@@ -10,7 +10,7 @@ collections:
     permalink: pretty
 default:
   - scope:
-      path: 
+      path: ""
       type: faq
     values:
       layout: default
