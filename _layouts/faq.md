@@ -4,4 +4,4 @@ layout: default
 
 {{content}}
 
-<p><a href="{{ "/faq/" | relative_url }}"></a></p>
+<p><a href="{{ "/faq/" | relative_url }}"><< Back to faq</a></p>
