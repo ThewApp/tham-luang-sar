@@ -8,7 +8,7 @@ collections:
   - faq
 default:
   - scope:
-      path: 
+      path: ""
       type: faq
     values:
       layout: default
