@@ -4,4 +4,4 @@ layout: default
 
 {{content}}
 
-{{ "## [Back]({{ site.baseurl }}/faq/)" | markdownify }}
+<p><a href="{{ "/faq/" | relative_url }}"></a></p>
