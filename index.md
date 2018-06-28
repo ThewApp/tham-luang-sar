@@ -33,14 +33,20 @@
 - [Fake news](./fakes) -- รวมข่าวปลอมที่แชร์กัน
 - [แหล่งข่าวที่น่าเชื่อถือ](./news) -- กรุณาติดตามข่าวจากแหล่งพวกนี้
 
-## แผนที่ภาพรวมถ้ำ
+## แผนที่ถ้ำ
 
 ![Cave map](./assets/images/overview_map1.jpg)
 
+### แผนที่ Google maps
+
+*โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)*
+
+https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-
+
 ## เกี่ยวกับเว็บไซต์
 
-### แก้ไข/เพิ่มข้อมูล
+### การแก้ไข/เพิ่มข้อมูล
 
-- สมาชิกเว็บ Pantip.com แสดงความคิดเห็นในกระทู้ [](https://pantip.com/topic/37803852/) ได้เลย
+- สมาชิกเว็บ Pantip.com แสดงความคิดเห็นในกระทู้ [เกาะติดกู้ภัยครั้งใหญ่ระดับภาค นักฟุตบอลหายไปในถ้ำทั้งทีม 24 ชม.แล้วยังหาไม่เจอ](https://pantip.com/topic/37803852/) ได้เลย
 - สมาชิก Twitter.com mention มาที่ @ThewDhanat
 - สมาชิก Github.com เพิ่ม Issue ได้เลย
