@@ -2,7 +2,7 @@
 permalink: /statements/index.html
 ---
 
-# Fake News
+# Official statements
 
 รวมแถลงข่าว สถานการณ์โดยทางการ
 
