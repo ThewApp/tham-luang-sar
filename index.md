@@ -35,6 +35,12 @@
 
 [แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-)
 
+## ภาพและคลิปภายในถ้ำ
+
+* [อัลบั้ม](https://www.facebook.com/media/set/?set=a.10214783429332994&type=3)ภาพจากสมาชิก Facebook [Nunune Ntk](https://www.facebook.com/nununntk/)  
+ถ่ายประมาณวันที่ 12-13 มีนาคม 2559
+* [คลิป](https://www.youtube.com/watch?&v=hKN9YHTTCCQ) จากนักสำรวจต่างชาติ ปี 2016
+
 ## เกี่ยวกับเว็บไซต์
 
 ### การแก้ไข/เพิ่มข้อมูล
