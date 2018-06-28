@@ -11,6 +11,9 @@ collections:
   fakes:
     output: true
     permalink: /:collection/:path/
+  statements:
+    output: true
+    permalink: /:collection/:path/
 defaults:
   - scope:
       path: ""
@@ -22,3 +25,8 @@ defaults:
       type: fakes
     values:
       layout: fakes
+  - scope:
+      path: ""
+      type: statements
+    values:
+      layout: statements
