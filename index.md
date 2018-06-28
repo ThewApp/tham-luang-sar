@@ -37,11 +37,11 @@
 
 ![Cave map](./assets/images/overview_map1.jpg)
 
-### แผนที่ Google maps
+### แผนที่ Google maps ดูได้ 3 มิติ
 
 *โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)*
 
-https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-
+[แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-)
 
 ## เกี่ยวกับเว็บไซต์
 
