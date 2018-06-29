@@ -20,13 +20,15 @@
 
 ## แผนที่ถ้ำ
 
-![Cave map](./assets/images/overview_map1.jpg)
+*โดย กรมทรัพยากรธรณี*
+
+![Cave map by DMR](./assets/images/DMRStatements/29-06-2018 1530 twitter map.jpg) 
 
 ### แผนที่ Google maps ดูได้ 3 มิติ
 
 *โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)*
 
-[แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-)
+[แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-) (มีการอัพเดทจุดตลอด)
 
 ## เกี่ยวกับเว็บไซต์
 
