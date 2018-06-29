@@ -35,5 +35,15 @@
 ### การแก้ไข/เพิ่มข้อมูล
 
 - สมาชิกเว็บ Pantip.com แสดงความคิดเห็นในกระทู้ [เกาะติดกู้ภัยครั้งใหญ่ระดับภาค นักฟุตบอลหายไปในถ้ำทั้งทีม 24 ชม.แล้วยังหาไม่เจอ](https://pantip.com/topic/37803852/) ได้เลย
-- สมาชิก Twitter.com mention มาที่ @ThewDhanat
-- สมาชิก Github.com เพิ่ม Issue ได้เลย
+- หรือ เพิ่ม Comment Facebook ด้านล่างนี้
+- หรือ สมาชิก Github.com เพิ่ม Issue ได้เลย
+
+<div class="fb-comments" data-href="https://thewapp.github.io/tham-luang-sar/" data-numposts="5"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
