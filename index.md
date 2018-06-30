@@ -23,13 +23,19 @@
 
 _โดย [คุณ สมาชิกหมายเลข 2085974](https://pantip.com/topic/37803852/comment5723) สมาชิก Pantip.com_
 
-![Cave map](./assets/images/30-06-2018 1800 map.jpg)
+![Cave map by Pantip member 2085974](./assets/images/30-06-2018 1800 map.jpg)
+
+_โดย [@palm_phattanan](https://twitter.com/palm_phattanan/status/1013061622783344641) ภาพแผนที่ของผู้ว่าฯเชียงราย_
+
+![Cave map by governer](./assets/images/30-06-2018 2108 governer map.jpg)
+
+ดูเพิ่มเติมที่ ความคิดเห็นที่ [5743](https://pantip.com/topic/37803852/comment5743)
 
 ### แผนที่ Google maps ดูได้ 3 มิติ
 
 _โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)_
 
-[แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-) (มีการอัพเดทจุดตลอด)
+[แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-)
 
 ## เกี่ยวกับเว็บไซต์
 
