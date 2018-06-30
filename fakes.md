@@ -10,4 +10,6 @@ permalink: /fakes/index.html
 * [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
 {% endfor %}
 
+อย่าลืมอ่าน [FAQ]({{ "/faq/" | relative_url }}) รวมคำถามต่างๆ
+
 [<< Back to homepage]({{ site.baseurl }})
