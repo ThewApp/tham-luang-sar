@@ -13,8 +13,10 @@ permalink: /media/index.html
 - [คลิป](https://www.facebook.com/bermwiangchai/videos/1795676723827936/) เส้นทางจากปากถ้ำถึงสามแยก วันที่ 26/06/2018
 - [คลิป](https://www.facebook.com/memoriesatp/videos/1897065600360486/) สุดทางเดิน 200 เมตรจากปากถ้ำ ตอนที่น้ำไหลย้อนมาถึงปากถ้ำ วันที่ 28/06/2018
 - [คลิป](https://www.instagram.com/p/BkmtXF7gw-0/) เวลา 7.30 น. วันที่ 29/06/2018
+- [ภาพ](https://www.facebook.com/ThaiSEAL/posts/1625449670911759) เวลา 11.00 น. วันที่ 29/06/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 11.17 น. วันที่ 30/06/2018
 - [คลิป](https://www.facebook.com/narinthorn.nabangchang.1/posts/2092346527690929) โดยคุณ เอ๋ นรินทร โพสต์เวลา 23.41 น. วันที่ 29/06/2018
-- [คลิป](https://www.facebook.com/story.php?story_fbid=1709788372467959&id=100003104390618) โพสต์โดย สมาชิก Facebook ชื่อ Rungrot Kongpiban โพสต์เวลา 01.07 น. 30/06/2018
+- [คลิป](https://www.facebook.com/story.php?story_fbid=1709788372467959&id=100003104390618) โพสต์โดย สมาชิก Facebook ชื่อ Rungrot Kongpiban โพสต์เวลา 01.07 น. วันที่30/06/2018
+- [ภาพ](https://www.facebook.com/ThaiSEAL/posts/1626859727437420) โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 11.17 น. วันที่ 30/06/2018
 
 ### ก่อนเหตุการณ์
 
