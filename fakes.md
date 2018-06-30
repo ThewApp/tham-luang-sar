@@ -4,7 +4,7 @@ permalink: /fakes/index.html
 
 # Fake News
 
-รวมข่าวปลอมที่แชร์กัน
+รวมข่าวปลอมข่าวเท็จที่แชร์กัน
 
 {% for item in site.fakes %}
 * [{{ item.title }}]({{ site.baseurl }}{{ item.url }})
