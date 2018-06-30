@@ -8,7 +8,7 @@
 - ยังไม่พบผู้สูญหายทั้ง 13 คน
 - ซีลยังไม่ถึงพัทยาบีช -- [อ่านเพิ่มเติม](./faq/จากสามแยกไปพัทยาบีชห่างแค่ไหน/)
 
-- แผนที่โถงต่างๆตำแหน่งต่างๆในถ้ำ -- [ความคิดเห็นที่ 5723](https://pantip.com/topic/37803852/comment5723)
+- [แผนที่โถงต่างๆตำแหน่งต่างๆในถ้ำ](#แผนที่ถ้ำ)
 - [รวมหน่วยที่มาช่วยเหลือ](https://www.facebook.com/cyukol/posts/10150994398849981) โดยสมาชิก Facebook ชื่อ [Chalermchatri Yukol](https://www.facebook.com/cyukol/)
 
 ## ลิงก์
@@ -21,13 +21,13 @@
 
 ## แผนที่ถ้ำ
 
-*โดย กรมทรัพยากรธรณี*
+_โดย [คุณ สมาชิกหมายเลข 2085974](https://pantip.com/topic/37803852/comment5723) สมาชิก Pantip.com_
 
-![Cave map by DMR](./assets/images/DMRStatements/29-06-2018 1530 twitter map.jpg) 
+![Cave map](./assets/images/30-06-2018 1800 map.jpg)
 
 ### แผนที่ Google maps ดูได้ 3 มิติ
 
-*โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)*
+_โดยสมาชิก Facebook ชื่อ [Lek Gis](https://www.facebook.com/lekgis)_
 
 [แผนที่ Google maps ดูได้ 3 มิติ](https://www.google.com/maps/d/viewer?mid=1XNbZ-QjjXkKxjtkfiKARvRfdh-JxBi3-) (มีการอัพเดทจุดตลอด)
 
