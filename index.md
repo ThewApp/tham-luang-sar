@@ -3,13 +3,14 @@
 เว็บนี้ไม่ใช่เว็บทางการ หรือ อยู่หน้าเหตุการณ์จริง  
 สิ่งที่อยู่บนเว็บนี้มาจากการคัดกรองมาจากแหล่งที่เชื่อถือได้เท่านั้น
 
-## สถานการณ์ปัจจุบัน เวลา 9.20 น. 01/07/2018
+## สถานการณ์ปัจจุบัน เวลา 13.50 น. 01/07/2018
 
 - ยังไม่พบผู้สูญหายทั้ง 13 คน
 - ซีลยังไม่ถึงพัทยาบีช -- [อ่านเพิ่มเติม](./faq/รวมคำถามเรื่องแผนที่/)
 
-- [สรุปข่าวคร่าวๆช่วง 01.00 - ปัจจุบัน](https://pantip.com/topic/37803852/comment6003)
-- [แผนที่โถงต่างๆตำแหน่งต่างๆในถ้ำ](#แผนที่ถ้ำ)
+<iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2FThaiSEAL%2Fposts%2F1628592693930790&width=500" width="500" height="758" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+- [สรุปข่าวคร่าวๆช่วง 01.00 - 09.00](https://pantip.com/topic/37803852/comment6003)
 - [รวมหน่วยที่มาช่วยเหลือ](https://www.facebook.com/cyukol/posts/10150994398849981) โดยสมาชิก Facebook ชื่อ [Chalermchatri Yukol](https://www.facebook.com/cyukol/)
 
 ## ลิงก์
