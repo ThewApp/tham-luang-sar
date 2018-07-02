@@ -62,3 +62,4 @@ permalink: /found/index.html
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">ในที่สุดภาพนี้ก็หาใช้ <a href="https://t.co/Z33FSXUX2W">pic.twitter.com/Z33FSXUX2W</a></p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013812039620259840?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[สรุปแถลง](https://www.facebook.com/thaiarmedforce/posts/10156645136064612)โดยเพจ Facebook ชื่อ [ThaiArmedForce.com](https://www.facebook.com/thaiarmedforce/)
