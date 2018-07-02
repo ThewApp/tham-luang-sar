@@ -3,16 +3,12 @@
 เว็บนี้ไม่ใช่เว็บทางการ หรือ อยู่หน้าเหตุการณ์จริง  
 สิ่งที่อยู่บนเว็บนี้มาจากการคัดกรองมาจากแหล่งที่เชื่อถือได้เท่านั้น
 
-## สถานการณ์ปัจจุบัน เวลา 22.33 น. 02/07/2018
+## สถานการณ์ปัจจุบัน เวลา 22.46 น. 02/07/2018
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[รายงานเบื้องต้นจากท่านผู้ว่าฯ] - ตอนนี้ยืนยันว่า ทุกคนปลอดภัย กำลังจะส่งซีลและทีมงานอีกชุดใหญ่ <br><br>ขออีก 4 ชัวร์โมง confirm</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013807027225706496?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### พบแล้ว
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>ย้ำ ยืนยันมาแล้ว ข่าวดีมาแล้วครับผม มีรายงานพบน้องๆ แล้วนะครับ</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013807161284091909?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- [รายงานข่าวพบแล้ว](./found/)
 
-- ระวังพวก[แอบอ้าง](./fakes/แอบอ้าง/)
-- ข่าวปลอมเรื่อง[ปิดข่าว](./fakes/ญาติบอกว่าเจอแล้ว-ปิดข่าว/)
 - สรุป โดย [The Standard](https://thestandard.co/search-for-13-missing-youth-in-tham-luang-khunnam-nang-non-forest-park/)
 
 ## ลิงก์

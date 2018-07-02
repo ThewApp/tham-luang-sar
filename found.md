@@ -31,7 +31,7 @@ permalink: /found/index.html
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>22.40 น. กำลังเตรียมแถลงข่าวด่วน</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013809708409356289?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[คลิป](https://www.facebook.com/prchiangrai2014/videos/852311068290685/)
+[คลิป](https://www.facebook.com/prchiangrai2014/videos/852311068290685/) ผู้ว่าฯเชียงรายแถลงข่าวพบแล้ว
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - จากการรับรายงานล่าสุดจากซีลที่เข้าไปปฏิบัติงาน ผ่าน 3 แยก ซึ่งเข้าไปที่หาดพัทยาได้ พบว่าน้ำท่วม จึงมุ่งหน้าเลยไป พบน้องทั้ง 13 คนปลอดภัย</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810014375428096?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -39,3 +39,14 @@ permalink: /found/index.html
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] -แต่ภารกิจยังไม่สิ้นสุด คือแผนที่ 1 เอาน้ำออกให้หมด ยังต้องพร่องน้ำออก ตอนนี้กำลังประชุมวางแผนอยู่ที่จะส่งพยาบาล-แพทย์ เข้าไปดูแล <br><br>ณ วันนี้ จะต้องขอยืนยันอีกหลายชม.</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810183984672768?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ซึ่งผูว่าฯ ยืนยันว่าพบ ซึ่งขอแพทย์ ประเมินสุขภาพทั้ง 13 รายก่อน จึงจะไปในขั้นถัดไป<br><br>แผนคือ ค้นหา ตอนนี้สำเร็จแล้ว เหลือ กู้ภัย และนำน้องๆเค้าออกมา</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810395964772354?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - เดี๋ยวจะส่งหมอ-พยาบาล สิ่งที่ส่งเข้าไปร่วมกันคือ อาหาร ซึ่งภารกิจจะยังไม่เสร็จสิ้น ก็จะทำแผนกู้ภัยและแผนส่งกลับให้ได้ <br><br>คืนนี้คงไม่ได้พัก ซึ่งแต่ทีมงานดีใจ ก็ต้องขอบคุณทุกๆ ทีมที่ให้ความร่วมมือทุกเรื่องๆ</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810666099040256?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ผมอยากให้ประเทศไทย ร่วมกันเป็นเหมือนที่เหตุการณ์นี้ ที่ดอยนางนอนนี้ <br><br>ขอบคุณทีมทุกทีม ทีมสูบน้ำก็ยังต้องสูบต่อไป</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810813025439744?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ทีมสูบน้ำที่จะมีทีมร่วมอีกหลายคน ทีมค้นหาหลักๆ คือทีมซีล ที่มาช่วยเหลือ ทีมคนหาบนถ้ำ ของทั้งทีมกองทัพบอก ทีมตชด. ที่เดินสำรวจกันทั้งหมด<br><br>ขอบคุณทุกภาคส่วนอาจจะเอ่ยไม่ครบ คือดีใจ</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013811138293690368?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
