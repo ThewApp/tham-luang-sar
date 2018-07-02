@@ -63,3 +63,9 @@ permalink: /found/index.html
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [สรุปแถลง](https://www.facebook.com/thaiarmedforce/posts/10156645136064612)โดยเพจ Facebook ชื่อ [ThaiArmedForce.com](https://www.facebook.com/thaiarmedforce/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">ภาพนี้ ทีมงานเตรียมไว้ตั้งแต่วันแรก ซึ่งแอดย้ำกันกับทุกคนถามเสมอๆว่า <br><br>&quot;เรายังมีหวัง&quot;</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013813345764311040?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">ปล. ถ้าตรงเลข 1 แปลกๆ ไม่ต้องสงสัยนะครับ เพราะว่า เราคิดว่าน้องๆ จะได้กลับบ้านนานแล้ว<br><br>แต่เนื่องจากวันนี้ สถานการณ์เปลี่ยนไป ดังนั้น 1ภารกิจแรกคือ ค้นหา สำเร็จแล้ว ลุ้นต่อที่เหลือ</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013813787965603840?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
