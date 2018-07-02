@@ -81,3 +81,14 @@ permalink: /found/index.html
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>23.20 น. เสียงญาติๆ ยังส่งเสียงเฮดังทะลุห้องประชุมออกมาเลย</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013819520618676230?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>23.20 น. ทางทีมญาติๆ ตะโกนขอบคุณ จนท. ที่อยู่ภายในห้องประชุม เสียงดังมากเลย</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013820200339140611?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>23.20 น. ทางญาติๆ กำลังดูรูปน้องๆ ทั้ง 13 คนนะครับ ในห้องประชุม</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013820392069140480?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ภาพน้องๆตอนที่พบ (ยังไม่ยืนยัน)
+
+<https://www.facebook.com/ilovethaiarmy/photos/a.486182198154657.1073741829.478383865601157/1448288598610674/>
+<https://www.facebook.com/ilovethaiarmy/posts/1448305395275661>
