@@ -20,6 +20,7 @@ permalink: /media/index.html
 - [คลิป](https://www.facebook.com/ThaiSEAL/videos/1627620770694649/) การเดินทางจากจุดลงดำน้ำจุดแรก เข้าสู่ห้องโถง 3 วันที่ 30/06/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 22.58 น. วันที่ 30/06/2018
 - [คลิป](https://www.facebook.com/ThaiSEAL/videos/1629406443849415/) โถง 3 วันที่ 01/07/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 01.03 น. วันที่ 02/07/2018
 - [ภาพ](https://www.facebook.com/ilovethaiarmy/posts/1447691665337034) ทหารปฏิบัติการในถ้ำ โดย เพจ Facebook ชื่อ [ข่าวทหาร](https://www.facebook.com/ilovethaiarmy/) โพสต์เวลา 13.52 น. วันที่ 02/07/2018
+- [คลิป](https://web.facebook.com/ThaiSEAL/videos/1630653307058062/) การลำเลียงขวดอากาศ วันที่ 02/07/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 20.09 น. วันที่ 02/07/2018
 
 ### ก่อนเหตุการณ์
 
