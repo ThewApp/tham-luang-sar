@@ -24,9 +24,9 @@
 
 ## แผนที่ถ้ำ
 
-_โดย [@mthai](https://twitter.com/mthai/status/1013248965326733312)_
+_โดย [@mthai](https://twitter.com/mthai/status/1013750300597895168)_
 
-![Cave map by @mthai](./assets/images/2018-07-01 0932 mthai map.jpg)
+![Cave map by @mthai](./assets/images/2018-07-02 1730 mthai map.jpg)
 
 ดูเพิ่มเติมที่ [FAQ รวมคำถามเรื่องแผนที่](./faq/รวมคำถามเรื่องแผนที่/#รวมแผนที่)
 
