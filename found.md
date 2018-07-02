@@ -31,7 +31,9 @@ permalink: /found/index.html
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>22.40 น. กำลังเตรียมแถลงข่าวด่วน</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013809708409356289?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[คลิป](https://www.facebook.com/prchiangrai2014/videos/852311068290685/) ผู้ว่าฯเชียงรายแถลงข่าวพบแล้ว
+[คลิป](https://www.facebook.com/prchiangrai2014/videos/852311068290685/) ผู้ว่าฯเชียงรายแถลงข่าวพบแล้ว โดยเพจ Facebook ชื่อ [PR.Chiangrai ประชาสัมพันธ์จังหวัดเชียงราย](https://www.facebook.com/prchiangrai2014/)
+
+[คลิป](https://www.youtube.com/watch?v=Km7e__-uT00) ผู้ว่าฯเชียงรายแถลงข่าวพบแล้ว โดย ThaiPBS
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - จากการรับรายงานล่าสุดจากซีลที่เข้าไปปฏิบัติงาน ผ่าน 3 แยก ซึ่งเข้าไปที่หาดพัทยาได้ พบว่าน้ำท่วม จึงมุ่งหน้าเลยไป พบน้องทั้ง 13 คนปลอดภัย</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013810014375428096?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -50,3 +52,13 @@ permalink: /found/index.html
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ทีมสูบน้ำที่จะมีทีมร่วมอีกหลายคน ทีมค้นหาหลักๆ คือทีมซีล ที่มาช่วยเหลือ ทีมคนหาบนถ้ำ ของทั้งทีมกองทัพบอก ทีมตชด. ที่เดินสำรวจกันทั้งหมด<br><br>ขอบคุณทุกภาคส่วนอาจจะเอ่ยไม่ครบ คือดีใจ</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013811138293690368?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ขอเวลาอีก 4 ชม. ขอกราบขอบพระคุณทุกท่าน สื่อ <br><br>กำลังใจจากพี่น้องทั้งประเทศ คนทั้งโลก กราบขอบพระคุณทุกท่านที่ให้กำลังใจมาตลอดทั้ง 10 วัน</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013811314043392000?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">อัพเดท <a href="https://twitter.com/hashtag/%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#ถ้ำหลวง</a> จ.เชียงราย 2/07/61<br><br>[แถลงข่าวด่วน] - ตร. ขอให้จัดระเบียบ คงระเบียบเรื่องการจราจรเหมือนเดิมหรือเข้มกว่าเดิม เพื่อความปลอดภัย <br><br>(มีเสียงเฮกันตลอดช่วงนี้)</p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013811485724688385?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="th" dir="ltr">ในที่สุดภาพนี้ก็หาใช้ <a href="https://t.co/Z33FSXUX2W">pic.twitter.com/Z33FSXUX2W</a></p>&mdash; mthai (@mthai) <a href="https://twitter.com/mthai/status/1013812039620259840?ref_src=twsrc%5Etfw">July 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
