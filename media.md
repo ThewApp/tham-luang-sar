@@ -23,6 +23,8 @@ permalink: /media/index.html
 - [คลิป](https://www.facebook.com/ThaiSEAL/videos/1630653307058062/) การลำเลียงขวดอากาศ วันที่ 02/07/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 20.09 น. วันที่ 02/07/2018
 - [คลิป](https://www.facebook.com/ThaiSEAL/videos/1631228493667210/) นักดำน้ำชาวอังกฤษ พบตอนช่วงค่ำ วันที่ 02/07/2018 โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 00.55 น. วันที่ 03/07/2018
 
+- [คลิป การนำผู้ประสบภัยออกมา](https://www.facebook.com/ThaiSEAL/videos/1648321541957905/) โดย เพจ Facebook ชื่อ [Thai NavySEAL](https://www.facebook.com/ThaiSEAL) โพสต์เวลา 18.39 น. วันที่ 11/07/2018
+
 ### ก่อนเหตุการณ์
 
 - [อัลบั้ม](https://www.facebook.com/media/set/?set=a.10214783429332994&type=3)ภาพจากสมาชิก Facebook [Nunune Ntk](https://www.facebook.com/nununntk/)  
